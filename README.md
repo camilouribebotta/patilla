@@ -21,7 +21,7 @@ title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikiped
        attribution="Wikimedia Commons">
 
 Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="Africa" eid="Q15" 
+<param title="Africa" eid="Q15">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
