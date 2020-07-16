@@ -24,10 +24,10 @@ Code to add a location with a custom marker on a mapor every paragraph in this s
 <param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
-<param ve-map center="Q15" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map center="Q15" zoom="2" basemap="Esri_WorldPhysical">
 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. 
-<param ve-map prefer-geojson center="Q15" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map prefer-geojson center="Q15" zoom="2" basemap="Esri_WorldPhysical">
 <param title="Ethiopia" eid="Q115">
 <param title="Sudan" eid="Q1049">
 
