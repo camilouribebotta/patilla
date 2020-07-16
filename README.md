@@ -1,18 +1,18 @@
 <param ve-config
-       title="Title of Your Narrative"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
+       title="Patilla"
+       banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
        num-maps="x"
        num-specimens="x"
        num-images="x"
        num-primary-sources="x"
-       author="Names of Authors">
+       author="Camilo Uribe Botta">
 
-<param title="Beatrix Farrand" eid="Q437714">
-<param title="cherry blossom" eid="Q871991">
-<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
+<param title="Watermelon" eid="Q17507129">
+<param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
+<param title="Dumbarton Oaks" eid="Q1264942">
 
-## Subtitle
+## Watermelon
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
