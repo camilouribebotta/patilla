@@ -28,7 +28,7 @@ Below is the code for adding a map with premade Geojson overlays. The center of 
 <param title="Ethiopia" eid="Q115">
 <param title="Sudan" eid="Q1049">
 
-Below is the code for adding an IIIF annotated image created through Storiiies. 
+Below is the code for adding an IIIF annotated image created through Storiiies. Watermelon
 <param ve-storiiies id="8f1e1">
 
 The code below is an example of how to add a custom geojson overlay. 
