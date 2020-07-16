@@ -20,16 +20,16 @@ title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikiped
        fit="cover"
        attribution="Wikimedia Commons">
 
-Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="Africa" eid="Q15">
+Code to add a location with a custom marker on a mapor every paragraph in this section.
+<param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
-<param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
+<param ve-map center="Q15" zoom="5" basemap="Esri_WorldPhysical">
 
 Below is the code for adding a map with premade Geojson overlays. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. 
-<param ve-map prefer-geojson center="Q17" zoom="5" basemap="Esri_WorldPhysical">
-<param title="Italy" eid="Q38">
-<param title="Iran" eid="Q794">
+<param ve-map prefer-geojson center="Q15" zoom="5" basemap="Esri_WorldPhysical">
+<param title="Ethiopia" eid="Q115">
+<param title="Sudan" eid="Q1049">
 
 Below is the code for adding an IIIF annotated image created through Storiiies. 
 <param ve-storiiies id="8f1e1">
