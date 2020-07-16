@@ -13,14 +13,15 @@
 <param title="Dumbarton Oaks" eid="Q1264942">
 
 ## Watermelon
-Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
-Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image.
+Watermelons come from Africa.
 <param ve-image
-title="Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
+title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
+
+Code to add a location with a custom marker on a map for every paragraph in this section.
+<param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
