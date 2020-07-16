@@ -32,7 +32,7 @@ Below is the code for adding a map with premade Geojson overlays. The center of 
 <param title="Iran" eid="Q794">
 
 Below is the code for adding an IIIF annotated image created through Storiiies. 
-<param ve-storiiies id="fc1dn">
+<param ve-storiiies id="8f1e1">
 
 The code below is an example of how to add a custom geojson overlay. 
 <param ve-map center="41.651031, -83.541939" zoom="6">
