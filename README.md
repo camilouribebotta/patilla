@@ -94,10 +94,35 @@ title="Watercolours paintings of fruits from Asia. Early 19th century. South Eas
        fit="contain"
        attribution="Dumbarton Oaks">
 
-## Subtitle
+## As a racist trope
 
-The code below is an example of how to add a video from Youtube. 
-The code below is an example of how to add a video from Youtube. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In nineteenth and twentieth century America, the watermelon became a racist trope associated with African Americans. After emancipation in 1863 the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they could became a source of income for freed slaves, the fruit already having a longer tradition of cultivation in slave gardens.  Although initially holding a certain amount of emancipatory potential for African Americans both through their sale enabling the escape of the plantation economy, and through the eating of watermelons as a public and communal activity, enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
+<param ve-image
+title="African american dacing around a pile of watermelons" url="https://commons.wikimedia.org/wiki/File:African_Americans_dancing_around_a_pile_of_watermelons_(cropped).jpg"
+       fit="contain"
+       attribution="Wikimedia commons"
+<param ve-image
+title="'Blasts'" url="https://commons.wikimedia.org/wiki/File:%22Blasts%22_from_The_Ram%27s_Horn_(1902)_(14761870716).jpg"
+       fit="contatin"
+       attribution="Wikimedia commons"
+<param ve-image
+title="African American children eating watermelon" url="https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
+       fit="contain"
+       attribution="wikimedia commons"
+
+Certain characteristics of the watermelon made it conducive to racializing: its messiness when eating connoting uncleanliness, its easiness to grow implying laziness, its sweetness and colour connoting childishness. These aspects of the fruit were bound up with representations of African Americans whose taste for the melon were exaggerated to the point of naturalisation: “The negro’s fondness for the watermelon is nothing short of a racial weakness. They seem to be born with a hunger or a thirst for the fruit.” Not only did the consumption of watermelons become a racially charged trope in popular representation, but countless stories of stolen watermelons contributed to the establishment of black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined”.  The narrative of watermelon-stealing by African Americans was so entrenched that in Tennessee, the state bill criminalizing trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century, and are still pervasive today.
+<param ve-image
+title="Postcard depicting a caricatured boy eating a slice of watermelon" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
+       fit="contain"
+       attribution="National Museum of African American History & Culture">
+<param ve-image
+title="Ashtray in the form of a “picaninny” boy eating a watermelon slice" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-E57085A629442_4002-000002"
+       fit="contain"
+       attribution="National Museum of African American History & Culture">
+<param ve-image
+title="Little Rastus's idea of Grandpa in Heaven" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
+       fit="contain"
+       attribution="Library of Congress">
 <param ve-video id="lTxn2BuqyzU" title="Watermelon A Cautionary Tale">
 
 Code for adding a Mapwarper overlay.
