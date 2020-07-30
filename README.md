@@ -73,6 +73,10 @@ title="Watermelon in the Medieval manuscript Tacinium Sanitatis, Ca 1390-1400" u
 title="'Anguriae' in Mathiolli's Dioscorides." url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
        fit="contain"
        attribution="BHL">
+<param ve-image
+title="Citrull cocumber in Gerard's Herbal" url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
+       fit="contatin"
+       attribution="BHL">
 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="8.9879147, 38.7473302" zoom="2">
