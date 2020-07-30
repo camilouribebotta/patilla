@@ -39,7 +39,7 @@ title="Round cucurbits, possibly watermelons, found in different Roman and Byzan
        fit="contain"
        attribution="Annals of Botany">
     
-### Seind Red... Eventually
+### Seing Red... Eventually
 
 Since the taxonomical and genetic records remain tangled until further study, the literary, visual, and cultural references to the watermelon actually reveal a great deal about the watermelon’s history and development. The variety of terms in ancient texts — pepon, melopepon, kolokynte — and the tangled taxonomy of watermelon varieties makes it uncertain whether they refer specifically to Citrullus lanatus, but this in fact gives a vivid portrait of some of the modern watermelon’s predecessors and competitors. Around 77 CE, Pliny writes, in various sections of his Natural History dedicated to “cucumbers” of all sorts, of a pepones as a “refrigerant maxime,” whose seeds, rinds, roots, and leaves are useful for alleviating pain or inducing vomiting; the “watermelon” was not quite refreshing in the way that we enjoy it now.
 <param ve-image
