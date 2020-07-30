@@ -102,13 +102,13 @@ title="African american dacing around a pile of watermelons" url="https://common
        fit="contain"
        attribution="Wikimedia commons">
 <param ve-image
-title="'Blasts'" url="https://commons.wikimedia.org/wiki/File:%22Blasts%22_from_The_Ram%27s_Horn_(1902)_(14761870716).jpg"
-       fit="contatin"
-       attribution="Wikimedia commons">
-<param ve-image
 title="African American children eating watermelon" url="https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
        fit="contain"
        attribution="wikimedia commons">
+<param ve-image
+title="'Blasts'" url="https://commons.wikimedia.org/wiki/File:%22Blasts%22_from_The_Ram%27s_Horn_(1902)_(14761870716).jpg"
+       fit="contatin"
+       attribution="Wikimedia commons">
 
 Certain characteristics of the watermelon made it conducive to racializing: its messiness when eating connoting uncleanliness, its easiness to grow implying laziness, its sweetness and colour connoting childishness. These aspects of the fruit were bound up with representations of African Americans whose taste for the melon were exaggerated to the point of naturalisation: “The negro’s fondness for the watermelon is nothing short of a racial weakness. They seem to be born with a hunger or a thirst for the fruit.” Not only did the consumption of watermelons become a racially charged trope in popular representation, but countless stories of stolen watermelons contributed to the establishment of black criminality following the 13th Amendment. The irresistible lure of the watermelon suggested that it did “more to tempt the colored race to steal than all other fruit combined”.  The narrative of watermelon-stealing by African Americans was so entrenched that in Tennessee, the state bill criminalizing trespass in 1870 was commonly known as the ‘watermelon bill’, serving to disenfranchise convicted trespassers. The popularity of such cultural tropes became important tools in exclusionary racial politics well into the twentieth century, and are still pervasive today.
 <param ve-image
