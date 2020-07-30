@@ -153,6 +153,23 @@ A trip on the rind.'
 The Macon Telegraph (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4, accessed online at Gale Primary Sources, Nineteenth Century U.S. Newspapers
 
 ### In contemporary life. 
-Code to add a specimen from Global Plants.
-Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Though a variety of watermelons appear throughout world cuisines, Citrullus lanatus alone enjoys no shortage of uses, especially resurging as healthy alternatives and attesting to the ongoing ubiquity of varieties and names. Seeds are roasted with a variety of oils and enjoyed as a snack in North African, Middle Eastern, and Chinese cuisines, and are entering the American healthy food scene.  “Watermelon steaks” have also become popular as substitutes for meat,  accomplished by grilling the flesh until the water evaporates, creating a fillet-like consistency. Commonly in West Africa, seeds are dried and pressed into ootanga or Kalahari oil, which has also increasingly been promoted as a natural skincare product.  The rind has traditionally been boiled and preserved in the American South, and the flesh is blended and cooked to create the traditional Sicilian dessert gelo d’anguria,  referencing an early modern name for today’s watermelon.
 <param ve-plant-specimen eid="Q17507129" max="2" reverse="true">
+
+Since the twentieth century, the intensified commodification of the watermelon has resulted in multiple transformations in the fruit’s form. In many countries around the world (but not all), since the 2000s, watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transporting and storing in fridges, and importantly bring farmers bigger profits per acre.  The personal melon becomes a far cry from the fruit sharing as an act of community in the nineteenth-century American south. The other major transformation in watermelons has been the success of the seedless melon. The commercial production of seedless watermelons began in the 1990s, using colchicine – a chemical derived from crocuses – to double the number of chromosomes in a plant. The resulting tetraploid watermelon which has four sets of chromosomes is then back-crossed with a normal diploid watermelon with two sets of chromosomes to produce a sterile seedless triploid hybrid, with three sets of chromosomes. 
+<param ve-image
+title="Varieties of watermelons" url="https://scitechdaily.com/images/Watermelon-Diversity-777x403.jpg"
+       fit="contain"
+       attribution="Scitech Daily">
+
+Whilst the seedless watermelon now dominates the market, it’s hybridised sterility presents new challenges for farmers. Watermelon plants are bee-pollinated and since bees foraging in seedless watermelon plantings carry a mixture of viable and non-viable pollen, more bees are required for effective pollination. Without sufficient pollination, watermelons may grow with a “hollow heart” and cannot be sold. The number of bee hives required therefore rises to one or even two per acre.  Watermelon farmers in the US have turned to renting bees to meet their pollination needs, especially since the decline of the wild bee population from mass colony collapse disorder since 2006. There is increasing evidence that the transportation of bees for such purposes causes significant stress on the colonies due to, for example, changes in temperature, humidity, and vibration.  The market demand for convenience in the shape of seedless watermelons may thus come at a considerable ecological cost.
+<param ve-image
+title="Watermelon flower" url="https://upload.wikimedia.org/wikipedia/commons/9/94/Citrullus_lanatus_flower.JPG"
+       fit="contain"
+       attribution="Wikimedia commons">
+
+The shape of watermelons has also become a novelty in Asian markets, with square watermelons grown in moulds being developed in Japan in the 1980s. Originally the design was practical, intended to allow for more efficient stacking and fridge storage, but the high prices as a result of the increased labour required in cultivation became prohibitive, and today square and heart-shaped watermelons are sold as an expensive novelty for decorative purposes. 
+<param ve-image
+title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Square_watermelon.jpg"
+       fit="contain"
+       attribution="Wikimedia commons">
