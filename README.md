@@ -23,6 +23,7 @@ title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiw
 
 ### Whose vine is it anyway?
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
+<param ve-storiiies id="8f1e1">
 <param ve-plant-specimen gpid="10.5555/al.ap.specimen.pre0235228-0">
 
 The species in the genus Citrullus characteristically grow on vines with pinnatifid (feather-like) leaves with only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.  Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in northeastern Africa around 6000 years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,  and some of the earliest iconography of oblong — an indication of domestication — melons can be found in Egyptian tombs, including the famous King Tutankhamen
@@ -63,9 +64,15 @@ title="5000 won Bank of Korea banknote" url="https://notescollector.eu/image/fot
        fit="contatin"
        attribution="Notes Collector">
 
-Below is the code for adding an IIIF annotated image created through Storiiies. Watermelon
-Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-storiiies id="8f1e1">
+Moorish conquerors left agricultural evidence — seeds, mostly — of the watermelon in the tenth century CE in Spain, and illuminated manuscripts shed light on the varieties of watermelons in southern Italy, though still considered among cucumbers. Just as the watermelons of early modern Korean art appeared appealing to a host of animals and insects, the watermelon in Europe as it appears in manuscripts seemed to more palatable than Pliny’s pepones: early health treatises (Tacuinum Sanitatis) commissioned by Italian nobility in the 14th century, where it was labeled as Anguria, show that they may have been so delectable that harvesters could taste test them in the fields. Curiously, the melones dulces (sweet melon) appears to be regarded with a bit more reserve, suggesting that the 'sweet' designation perhaps did not indicate the sweetness we expect today. Indeed, writing in the 16th century, John Gerard, in his Herball or Generall Historie of Plants describes the flesh as “spungie and of a flimsie substance,” which can be “eaten rawe, but more commonly boiled” and is still more notable for its alleviating effects: ¡it ingendereth a waterish bloud, mitigateth the extremitie of heat of the inner parts, and tempereth the sharpness and fervent heat of choler.'
+<param ve-image
+title="Watermelon in the Medieval manuscript Tacinium Sanitatis, Ca 1390-1400" url="http://visualiseur.bnf.fr/ConsulterElementNum?O=08100553&E=JPEG&Deb=74&Fin=74&Param=C"
+       fit="contain"
+       attribution="Bibliotèque Nationale de France">
+<param ve-image
+title="'Anguriae' in Mathiolli's Dioscorides." url="https://www.archive.org/download/mobot31753000819224/page/n512_w299"
+       fit="contain"
+       attribution="BHL">
 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="8.9879147, 38.7473302" zoom="2">
