@@ -59,9 +59,9 @@ title="Painting of Mice Nibbling on a Watermelon" url="https://www.museum.go.kr/
        fit="contain"
        attribution="National Museum of Korea">
 <param ve-image
-title="Plants and Insects" url="https://iiif.harvardartmuseums.org/manifests/object/200903/canvas/canvas-18204887"
+title="5000 won Bank of Korea banknote" url="https://notescollector.eu/image/fotos/skr2011005twonr.png"
        fit="contatin"
-       attribution="The President and Fellows of Harvard College">
+       attribution="Notes Collector">
 
 Below is the code for adding an IIIF annotated image created through Storiiies. Watermelon
 Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
