@@ -98,7 +98,7 @@ title="Watercolours paintings of fruits from Asia. Early 19th century. South Eas
 
 In nineteenth and twentieth century America, the watermelon became a racist trope associated with African Americans. After emancipation in 1863 the watermelon briefly became a tool of black citizenship; the ease with which watermelons could be grown and sold meant that they could became a source of income for freed slaves, the fruit already having a longer tradition of cultivation in slave gardens.  Although initially holding a certain amount of emancipatory potential for African Americans both through their sale enabling the escape of the plantation economy, and through the eating of watermelons as a public and communal activity, enacting newfound freedoms, the watermelon soon became perceived as a threat by white southerners who proceeded to transform the fruit into a symbol of black people’s unfitness for freedom and citizenship.
 <param ve-image
-title="African american dacing around a pile of watermelons" url="https://commons.wikimedia.org/wiki/File:African_Americans_dancing_around_a_pile_of_watermelons_(cropped).jpg"
+title="African american dacing around a pile of watermelons" url="https://upload.wikimedia.org/wikipedia/commons/3/35/African_Americans_dancing_around_a_pile_of_watermelons_%28cropped%29.jpg"
        fit="contain"
        attribution="Wikimedia commons">
 <param ve-image
