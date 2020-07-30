@@ -100,11 +100,11 @@ In nineteenth and twentieth century America, the watermelon became a racist trop
 <param ve-image
 title="African american dacing around a pile of watermelons" url="https://commons.wikimedia.org/wiki/File:African_Americans_dancing_around_a_pile_of_watermelons_(cropped).jpg"
        fit="contain"
-       attribution="Wikimedia commons"
+       attribution="Wikimedia commons">
 <param ve-image
 title="'Blasts'" url="https://commons.wikimedia.org/wiki/File:%22Blasts%22_from_The_Ram%27s_Horn_(1902)_(14761870716).jpg"
        fit="contatin"
-       attribution="Wikimedia commons"
+       attribution="Wikimedia commons">
 <param ve-image
 title="African American children eating watermelon" url="https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
        fit="contain"
