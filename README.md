@@ -124,7 +124,6 @@ title="Ashtray in the form of a “picaninny” boy eating a watermelon slice" u
 title="Little Rastus's idea of Grandpa in Heaven" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
        fit="contain"
        attribution="Library of Congress">
-<param ve-video id="lTxn2BuqyzU" title="Watermelon A Cautionary Tale">
 
 ### Watermelons and Cholera
 
@@ -167,6 +166,7 @@ Whilst the seedless watermelon now dominates the market, it’s hybridised steri
 title="Watermelon flower" url="https://upload.wikimedia.org/wikipedia/commons/9/94/Citrullus_lanatus_flower.JPG"
        fit="contain"
        attribution="Wikimedia commons">
+<param ve-video id="lTxn2BuqyzU" title="Watermelon A Cautionary Tale">
 
 The shape of watermelons has also become a novelty in Asian markets, with square watermelons grown in moulds being developed in Japan in the 1980s. Originally the design was practical, intended to allow for more efficient stacking and fridge storage, but the high prices as a result of the increased labour required in cultivation became prohibitive, and today square and heart-shaped watermelons are sold as an expensive novelty for decorative purposes. 
 <param ve-image
