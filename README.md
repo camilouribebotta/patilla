@@ -37,7 +37,8 @@ title="Round cucurbits, possibly watermelons, found in different Roman and Byzan
        fit="contain"
        attribution="Annals of Botany">
     
-### Seind Red... Eventuallyurl
+### Seind Red... Eventually
+
 Since the taxonomical and genetic records remain tangled until further study, the literary, visual, and cultural references to the watermelon actually reveal a great deal about the watermelon’s history and development. The variety of terms in ancient texts — pepon, melopepon, kolokynte — and the tangled taxonomy of watermelon varieties makes it uncertain whether they refer specifically to Citrullus lanatus, but this in fact gives a vivid portrait of some of the modern watermelon’s predecessors and competitors. Around 77 CE, Pliny writes, in various sections of his Natural History dedicated to “cucumbers” of all sorts, of a pepones as a “refrigerant maxime,” whose seeds, rinds, roots, and leaves are useful for alleviating pain or inducing vomiting; the “watermelon” was not quite refreshing in the way that we enjoy it now.
 <param ve-image
 title="Cucurbits on the Juliana Anicia Codex known as Vienna Dioscorides. Number C is Citrullus colocynthis, the bitter watermelon, the close relative to watermelon used as laxative and diuretic." url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/100/7/10.1093/aob/mcm242/2/mcm24201.jpeg?Expires=1599152059&Signature=uPLyghEFxoPNUp8Bl7c-mT7iQ1W~Vy~voNczo6PqfdEMJ5AVzGOp6XpmFbAm7wrO3f4l0fF-941C9t-471o-otlXzw7OQvxAiN-Axh-DI2Rhvk5ldA4AdSV0hZG-d7il~xO7xeBxDm6hcfWM~uDu9uF5-c-hezzb6CAAxi2RqijxttXO6TSyOSlwUPnWUL7YJTl5y9S7cwulGYA9Wo23ukLP9sy1L0Q~O78iXt1TpCVwvPGgJDbkgwLvuAuqHsxAAQvP3HYnZyfwAPuLFB1sU52SHuNrhBIi0xbSGgj54Nmpcwvz6qvSpPPmPm8toDKk1rdAFSLiNikq1xL8ZHqD~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
@@ -58,7 +59,7 @@ title="Painting of Mice Nibbling on a Watermelon" url="https://www.museum.go.kr/
        fit="contain"
        attribution="National Museum of Korea">
 <param ve-image
-title="Plants and Insects" url="https://iiif.harvardartmuseums.org/manifests/object/200903"
+title="Plants and Insects" url="https://iiif.harvardartmuseums.org/manifests/object/200903/canvas/canvas-18204887"
        fit="contatin"
        attribution="The President and Fellows of Harvard College">
 
