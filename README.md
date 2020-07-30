@@ -24,7 +24,7 @@ Ironically, the origins and history of the watermelon are obscured by its common
 
 The species in the genus Citrullus characteristically grow on vines with pinnatifid (feather-like) leaves with only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.  Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in northeastern Africa around 6000 years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,  and some of the earliest iconography of oblong — an indication of domestication — melons can be found in Egyptian tombs, including the famous King Tutankhamen
 <param ve-image  
-title="Representations of watermelon in Egyptian tombs" url="https://academic.oup.com/view-large/figure/83877368/mcu10606.jpeg"
+title="Representations of watermelon in Egyptian tombs" url="https://www.metmuseum.org/art/collection/search/53180?searchField=All&amp;sortBy=Relevance&amp;ft=watermelon&amp;offset=20&amp;rpp=20&amp;pos=27"
        fit="cover"
        attribution="Annals of Botany">
 
