@@ -18,7 +18,7 @@
 Mark Twain once said that watermelon “it is the chief of this world's luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took; we know it because she repented.”  Though today “watermelon” calls to mind a sturdy melon with deliciously refreshing, sweet, red flesh, for most of its several millennia history as a cultivated crop, it was known as a pale, hard, sometimes bitter fruit with relatively tender rind, more akin in look and taste to a modern cucumber. More than three thousand years after watermelon-like fruit first appeared in Egyptian iconography, in the fifth century CE, watermelons were still described by Greek and Latin authors merely as “large, round, moist, and easy to digest,” of which “best ones are sweet,” though their use of “sweet” probably just meant a not savory or bitter taste.  Not until the sixth century CE do watermelons appear to be associated with sweet fruits like figs, grapes, and pomegranates, and only well into 1400s do the uniformly red, thick-rounded watermelons that we recognize today begin to appear
 <param ve-image
 title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
-       fit="contatin"
+       fit="cover"
        attribution="Wikimedia Commons">
 
 ### Whose vine is it anyway?
