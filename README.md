@@ -11,23 +11,22 @@
 
 <param title="Watermelon" eid="Q17507129">
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
-<param title="Dumbarton Oaks" eid="Q1264942">
-<param title="Beatrix Farrand" eid="Q437714">
-<param title="cherry blossom" eid="Q871991">
 
-### Watermelon
 
-Watermelons come from Africa.
-Code to add a location with a custom marker on a map for every paragraph in this section. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-<param title="Africa" eid="Q15" fill="#FF0000" marker-symbol="landmark">
-<param ve-image
-title="Watermelon _Citrullus lanatus_" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
+### Watermelon, what the angels eat. 
+
+###Introduction. 
+Mark Twain once said that watermelon “it is the chief of this world's luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat. It was not a Southern watermelon that Eve took; we know it because she repented.”  Though today “watermelon” calls to mind a sturdy melon with deliciously refreshing, sweet, red flesh, for most of its several millennia history as a cultivated crop, it was known as a pale, hard, sometimes bitter fruit with relatively tender rind, more akin in look and taste to a modern cucumber. More than three thousand years after watermelon-like fruit first appeared in Egyptian iconography, in the fifth century CE, watermelons were still described by Greek and Latin authors merely as “large, round, moist, and easy to digest,” of which “best ones are sweet,” though their use of “sweet” probably just meant a not savory or bitter taste.  Not until the sixth century CE do watermelons appear to be associated with sweet fruits like figs, grapes, and pomegranates, and only well into 1400s do the uniformly red, thick-rounded watermelons that we recognize today begin to appear
+
+### Whose vine is it anyway?
+Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
+<param ve-plant-specimen eid="10.5555/al.ap.specimen.pre0235228"
+
+The species in the genus Citrullus characteristically grow on vines with pinnatifid (feather-like) leaves with only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.  Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in northeastern Africa around 6000 years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,  and some of the earliest iconography of oblong — an indication of domestication — melons can be found in Egyptian tombs, including the famous King Tutankhamen
+<param ve-image 
+title="Representations of watermelon in Egyptian tombs. url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599134814&Signature=WSAtSe~f-wx49lxqC6lpVqLvAehNnBuYIBSS0c1pOzbWIhj9A7aayXzi3X1lon033Pd~rf0~SYjcDaBqbYoowF7K~anOlD1IA51uwSjq~wHorycvhuoolAWSs2ToVEIMolcax6Zh-9TsHjCMeFAKYrt6dtHWHpfoKrefsycEThM13NEg5RrXcbg5BecOCgQJrAauo1eVNtMc6XTbYUrIXvw-~iRu4wN10XcTstoLayp2UTAx59bJES0OEhC~5lPcePmp6vQlm0JI-2mq1NnqIsKvWhDCF6hEhlfzBVcNFG1qPAP80wE-XOM4rO4evSxzUpeNdNF0Sm0evxWtRVtbCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
        fit="cover"
-       attribution="Wikimedia Commons">
-<param ve-image
-title="Courge pastèque" url="https://upload.wikimedia.org/wikipedia/commons/5/5b/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%28Pl._305%29_%287795661744%29.jpg"
-        fit="contain"
-        attribution="Wikimedia Commons">
+       attribution="Annals of Botany"
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
