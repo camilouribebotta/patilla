@@ -20,10 +20,11 @@ Mark Twain once said that watermelon “it is the chief of this world's luxuries
 title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg"
        fit="cover"
        attribution="Wikimedia Commons">
+<param ve-map center="8.9879147, 38.7473302" zoom="2">
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/camilouribebotta/watermelon.json/master/watermelon.json" title="Watermelon" fill="#FF0000" marker-symbol="landmark" active>
 
 ### Whose vine is it anyway?
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
-<param ve-storiiies id="8f1e1">
 <param ve-plant-specimen gpid="10.5555/al.ap.specimen.pre0235228-0">
 
 The species in the genus Citrullus characteristically grow on vines with pinnatifid (feather-like) leaves with only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.  Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in northeastern Africa around 6000 years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,  and some of the earliest iconography of oblong — an indication of domestication — melons can be found in Egyptian tombs, including the famous King Tutankhamen
@@ -75,12 +76,23 @@ title="'Anguriae' in Mathiolli's Dioscorides." url="https://www.archive.org/down
        attribution="BHL">
 <param ve-image
 title="Citrull cocumber in Gerard's Herbal" url="https://www.archive.org/download/mobot31753000817756/page/n949_w320"
-       fit="contatin"
+       fit="contain"
        attribution="BHL">
 
-The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map center="8.9879147, 38.7473302" zoom="2">
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/camilouribebotta/watermelon.json/master/watermelon.json" title="Watermelon" fill="#FF0000" marker-symbol="landmark" active>
+By the eighteenth century, watermelons were commonly cultivated practically the world over: European colonists introduced the crop to indigenous populations in Canada, the American South, and Hawaii, and African slaves brought the fruit to eastern North America, the Caribbean, South America and Brazil.  The visual references to the fruit reflect its proliferation, surfacing as a common motif famously in European and American still lifes, which also reflect the ongoing variety, confusion, and exchange of watermelons. Albert Eckhout’s 17th century still life of “Brazilian fruits” depicts a watermelon with whorls of the familiar red flesh amongst the white rind, attesting to a less uniformly dessert-like watermelon. The still lifes also depict the multitude of cultural valences associated with the fruit: whereas American still lifes of the fruit, like those of the prolific Peale family in the early 19th century, place the melon amidst almost nauseating abundance and plenty — as in the vivid homogeneity of the red flesh — European artists would often cut through that fantasy (literally) with the abrupt imposition of a knife, a harsh reminder of the fleeting richness of life. Sometimes the witness to the competing cultural and botanical influences, as in an album of Asian fruits from the start of the 19th century held by Dumbarton Oaks : likely executed by a Chinese artist working in Malaysia or Sumatra, with perhaps Arabic labels, the watermelon sits in isolation like a European botanical specimen.
+<param ve-image
+title="Giovanni Stanchi, 'Watermelons, peaches, pears and other fruit in a landscape'" url="https://hyperallergic.com/wp-content/uploads/2015/07/watermelonpainting01.jpg"
+       fit="contain"
+       attribution="Courtesy of Christie's">
+<param ve-image
+title="Maria Sybilla Merian's watermelon with insects" url="https://www.archive.org/download/Metamorphosisin00Meri/page/n53_w351"
+       fit="contain"
+       attribution="BHL">
+<param ve-storiiies id="8f1e1">
+<param ve-image
+title="Watercolours paintings of fruits from Asia. Early 19th century. South East Asia. Dumbarton Oaks collection." url="https://www.doaks.org/resources/rare-books/album-of-chinese-watercolors-of-asian-fruits/013717125-album-pl-0015.jpg/@@images/image/zoom"
+       fit="contain"
+       attribution="Dumbarton Oaks">
 
 ## Subtitle
 
