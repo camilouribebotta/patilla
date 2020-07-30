@@ -3,10 +3,10 @@
        title="Watermelon. What the angels eat "
        banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        layout="vtl"
-       num-maps="x"
-       num-specimens="x"
-       num-images="x"
-       num-primary-sources="x"
+       num-maps="1"
+       num-specimens="2"
+       num-images="23"
+       num-primary-sources="6"
        author="Anna Lawrence, Camilo Uribe Botta, May Wang">
 
 <param title="Watermelon" eid="Q17507129">
