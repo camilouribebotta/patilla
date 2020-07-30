@@ -20,13 +20,13 @@ Mark Twain once said that watermelon “it is the chief of this world's luxuries
 
 ### Whose vine is it anyway?
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
-<param ve-plant-specimen eid="10.5555/al.ap.specimen.pre0235228"
+<param ve-plant-specimen eid="10.5555/al.ap.specimen.pre0235228"> 
 
 The species in the genus Citrullus characteristically grow on vines with pinnatifid (feather-like) leaves with only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.  Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in northeastern Africa around 6000 years ago. Wild dessert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,  and some of the earliest iconography of oblong — an indication of domestication — melons can be found in Egyptian tombs, including the famous King Tutankhamen
-<param ve-image 
-title="Representations of watermelon in Egyptian tombs. 
+<param ve-image  
+title="Representations of watermelon in Egyptian tombs. url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599134814&Signature=WSAtSe~f-wx49lxqC6lpVqLvAehNnBuYIBSS0c1pOzbWIhj9A7aayXzi3X1lon033Pd~rf0~SYjcDaBqbYoowF7K~anOlD1IA51uwSjq~wHorycvhuoolAWSs2ToVEIMolcax6Zh-9TsHjCMeFAKYrt6dtHWHpfoKrefsycEThM13NEg5RrXcbg5BecOCgQJrAauo1eVNtMc6XTbYUrIXvw-~iRu4wN10XcTstoLayp2UTAx59bJES0OEhC~5lPcePmp6vQlm0JI-2mq1NnqIsKvWhDCF6hEhlfzBVcNFG1qPAP80wE-XOM4rO4evSxzUpeNdNF0Sm0evxWtRVtbCg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
        fit="cover"
-       attribution="Annals of Botany"
+       attribution="Annals of Botany">
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. .
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
