@@ -129,10 +129,7 @@ title="Little Rastus's idea of Grandpa in Heaven" url="https://cdn.loc.gov/servi
 ### Watermelons and Cholera
 
 The racist belief in the unhealthy habits of African Americans was also a feature in nineteenth century associations between watermelons and diseases such as cholera. The common belief that eating too much watermelon, especially when overripe, could lead to cholera led some cities to ban the fruit’s sale during cholera epidemics.  “Eating melons” was noted down as the cause of illness in several “colored people” in newspaper reports in 1832, and watermelons were referred to as “cholera bombshells”, “the watermelons and the undertaker [going] hand in hand” until the late nineteenth century.  Whilst it is unclear whether such direct and often exaggerated lines of causality between watermelons and cholera were accurate, contemporary evidence has shown that raw fruits and vegetables can be a frequent source of cholera infection, especially if fields are fertilized with uncomposted manure, or irrigated with contaminated water. The significance of watermelons specifically, rather than other types of fruit, in terms of cholera infections was almost certainly exaggerated to serve popular narratives in America at the time, but the association was also present in other areas of the world.
-<param ve-image
-title="Unhygienic practices which lead to cholera" url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Unhygienic_practices_which_lead_to_cholera._Colour_lithograp_Wellcome_L0032150.jpg"
-       fit="contain"
-       attribution="Wellcome Library">
+<param ve-storiiies id="831fg">
 
 Poem: 
 'Who started the cholera? 
