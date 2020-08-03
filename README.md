@@ -83,7 +83,7 @@ In the seventeenth to nineteenth centuries, the watermelon was commonly represen
 <param ve-image
 title="Pineapple, watermelons and other fruits (Brazilian fruits)" url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Albert_Eckhout_1610-1666_Brazilian_fruits.jpg"
        fit="contain"
-       attribution="Wikimedia Commons"
+       attribution="Wikimedia Commons">
 <param ve-image
 title="Watermelons, peaches, pears and other fruit in a landscape by Giovanni Stanchi" url="https://hyperallergic.com/wp-content/uploads/2015/07/watermelonpainting01.jpg"
        fit="contain"
