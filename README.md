@@ -152,8 +152,8 @@ But it will not be long
 Ere the Germans will find,  
 That cholera loves  
 A trip on the rind.  
->
 #### The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4
+>
 
 ### Capitalism and the commodification of fruit 
 Since the twentieth century, the intensified commodification of the watermelon has transformed the fruit’s form. In many countries around the world (but not all), since the 2000s, watermelons have grown smaller, rounder, and more uniform in size in order to stack better for transit and sale. These so-called “personal melons” are more practical for transporting and storing in fridges, and importantly bring farmers bigger profits per acre, heralding a shift away from the watermelon as a communally consumed fruit.[26] The other major transformation in watermelons has been the success of the seedless melon. The commercial production of seedless watermelons began in the 1990s, using colchicine – a chemical derived from crocuses – to produce a sterile seedless hybrid, crossbred to have three sets of chromosomes instead of two.[27]
