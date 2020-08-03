@@ -152,7 +152,7 @@ But it will not be long
 Ere the Germans will find,  
 That cholera loves  
 A trip on the rind.  
-#### The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4
+The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4
 >
 
 ### Capitalism and the commodification of fruit 
