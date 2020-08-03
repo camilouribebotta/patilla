@@ -13,7 +13,7 @@
 <param title="Citrullus lanatus" eid="Q17507129" aliases="Anguria">
 
 
-## Watermelon, the food of angels
+## Watermelon, The Food Of Angels
 
 Mark Twain once said that watermelon “is the chief of this world's luxuries, king by the grace of God over all the fruits of the earth. When one has tasted it, he knows what the angels eat.” [^ref1] Though today “watermelon” calls to mind a sturdy melon with refreshing, sweet, red flesh, for most of its millennia long history as a cultivated crop it was known as a pale, hard, sometimes bitter fruit with relatively tender rind. Not until the sixth century CE were watermelons associated with sweet fruits like figs and grapes, and it was not until well into the 1400s that the uniformly red, thick-rinded watermelons that we recognize today began to appear. Throughout its history, the watermelon has been associated with medicine, vitality, racism, and disease, revealing a darker side to the sweet summer fruit we know and love. 
 <param ve-vis-network file="graphs/watermelon.csv">
@@ -114,15 +114,19 @@ title="African american dacing around a pile of watermelons" url="https://upload
        
 Certain characteristics of the watermelon made it conducive to racializing: its messiness when eating connoting uncleanliness, its easiness to grow implying laziness, its sweetness and colour connoting childishness. These aspects of the fruit were bound up with representations of African Americans whose taste for the melon were exaggerated to the point of naturalisation, the watermelon’s African origins cited as an explanation for black Americans’ apparently insatiable appetite for the fruit. Nineteenth-century newspapers were filled with anecdotes and reports which repeated these racial tropes until they masqueraded as truth. 
 <param ve-image
-title="Postcard depicting a caricatured boy eating a slice of watermelon" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
+title="“The negro’s fondness for the watermelon is nothing short of a racial weakness. They seem to be born with a hunger or a thirst for the fruit”. (The Atchison Globe, 1896" url"=https://upload.wikimedia.org/wikipedia/commons/1/11/3_African_American_boys_eating_watermelon_LCCN2004672359.jpg"
+       fit="contain"
+       attribution="Wikimedia Commons"
+<param ve-image
+title="“In the earliest study of the natural history of the African his absorptive powers in the matter of watermelons came to the front and has always staid there. It is one of his most salient characteristics” (The New York Times, 1904)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-6A6EEDA3268C2_2001"
        fit="contain"
        attribution="National Museum of African American History & Culture">
 <param ve-image
-title="Ashtray in the form of a “picaninny” boy eating a watermelon slice" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-E57085A629442_4002-000002"
+title="“No negro who has any pride of race or respect for himself would hesitate one instant in taking the contract to eat his weight in melons any day of the season.” (The Galveston Daily News, 1886)" url="https://ids.si.edu/ids/deliveryService?max_w=700&id=NMAAHC-E57085A629442_4002-000002"
        fit="contain"
        attribution="National Museum of African American History & Culture">
 <param ve-image
-title="Little Rastus's idea of Grandpa in Heaven" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
+title="“Whether chickens or watermelons exercise the stronger fascination upon the colored mind is an uncertain question … it must be remembered that there is far more difficulty in entering a locked chicken-house than there is in climbing the fence of the melon-patch.” (The New York Times, 1882" url="https://cdn.loc.gov/service/pnp/cph/3b40000/3b48000/3b48900/3b48980r.jpg"
        fit="contain"
        attribution="Library of Congress">
 
