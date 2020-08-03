@@ -22,10 +22,10 @@ title="Watermelon" url="https://upload.wikimedia.org/wikipedia/commons/4/47/Taiw
        attribution="Wikimedia Commons">
 
 ### Whose Vine Is It Anyway?
-Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. amarus)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of C. lanatus.[3] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
+Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the _Citrullus lanatus_ species, but the _Citrullus_ genus includes at least six other species of watermelons, including the citron _(C. amarus)_, egusi _(C. mucosospermus)_ and colocynth _(C. colocynthis)_ watermelons, which at one time were variously called or classified as subspecies of C. lanatus.[^ref2] Past taxonomies of the sweet dessert watermelon are therefore of minimal use for tracing its origins until further genetic analysis is undertaken; instead, literary references and visual depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 <param ve-plant-specimen eid="Q30160603" max="2">
 
-Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white. Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,[5] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs, including that of King Tutankhamen [6] and Mediterranean and Byzantine mosaics. 
+Species in the genus _Citrullus_ characteristically grow on vines with pinnatifid (feather-like) leaves and only a few pale-yellow flowers. The glossy, outermost rind is often distinctly patterned with jagged stripes of two shades of green, covering a thicker, white inner rind that encases the softer flesh that, when ripe, ranges from red to yellow to green and white.[^ref3] Though its origin is still in contention and has been located throughout the African continent, current hypotheses point to its origin and first domestication in north-eastern Africa around six thousand years ago. Wild desert watermelons have been found throughout Sudan, Egypt, Ethiopia, Libya, and Kenya,[^ref4] and some of the earliest iconography of oblong melons — an indication of domestication — can be found in Egyptian tombs, including that of King Tutankhamen [^ref5] and Mediterranean and Byzantine mosaics. 
 <param ve-image
 title="Representations of watermelon in Egyptian tombs" url="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/aob/116/2/10.1093_aob_mcv077/2/mcv077f2p.png?Expires=1599137500&Signature=R-SPwg8TMVoQjtTuWH~HxugVkhIGbt6Jbh~qJv9YIzrz8CKD2JJUkfkcfZgF6N1mEmDkiXwIdyBr7IN8O8cIVvXJyeQFqr5G7gb~8ZvMRo1O0SPU4md~VWlToHpEklMkrX1qXbf-hrk0E-pgjjUT~jZbxp~wxd56NOV8-Xx7OhD~Kf4q0UuI6I81CFwO7aAzWfFtfbgscQTKquRGow81UBR9aNJJ5gh7jpOGZ3nr9A1~fUDuSmnqr1DbTZ67CjsLmb3qSEsw5ReuBqlUJJUEIaYUGstmRegjrnhrPpF9zhIZ13ats0ADxNeubChfhUte22fulFhjYxTaGbJN2DS04Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
        fit="contain"
@@ -152,7 +152,7 @@ But it will not be long
 Ere the Germans will find,  
 That cholera loves  
 A trip on the rind.  
-The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4
+-The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4
 >
 
 ### Capitalism and the commodification of fruit 
@@ -183,4 +183,6 @@ title="Square watermelon from Japan" url="https://upload.wikimedia.org/wikipedia
 
 ### References
 [^ref1]: Mark Twain. _Pudd’nhead Wilson._ Charles L. Webster & Company. 1894.
-[^ref2]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” _Annals of Botany_ 116, no. 2 (August 2015): 139, https://doi.org/10.1093/aob/mcv077.
+[^ref2]: Guillaume Chomicki and Susanne S. Renner, “Watermelon Origin Solved with Molecular Phylogenetics Including Linnaean Material: Another Example of Museomics,” _New Phytologist_ 205, no. 2 (2015): 526–32, https://doi.org/10.1111/nph.13163.
+[^ref3]: Harry S. Paris, “Origin and Emergence of the Sweet Dessert Watermelon, Citrullus Lanatus,” Annals of Botany 116, no. 2 (August 2015): 139, https://doi.org/10.1093/aob/mcv077.
+
